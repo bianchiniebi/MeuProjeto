@@ -1,3 +1,4 @@
+#Meu primeiro menu
 print("0 - Sair")
 print("1 - Positivo, Negativo ou Nulo")
 print("2 - Calcular desconto")
